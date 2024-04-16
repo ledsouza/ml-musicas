@@ -7,7 +7,7 @@ Desenvolvida uma pipeline para recomendação de músicas a partir de um modelo 
 | :sparkles: Nome        | **Recomendação de Músicas com Machine Learning**
 | :label: Tecnologias | python, sklearn, pandas, plotly, skimage, matplotlib, spotipy
 
-![](https://drive.google.com/file/d/14m1NEn2JSmW1SfMxdo7Gy-TdeqWGYCSp/view?usp=sharing)
+![](https://vitrinedev.s3.amazonaws.com/recomendador_musicas.png)
 
 ## Detalhes do projeto
 
