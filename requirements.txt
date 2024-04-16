@@ -1,7 +1,8 @@
-pandas
-matplotlib
-plotly
-nbformat
-scikit-learn
+pandas==2.2.2
+matplotlib==3.8.4
+plotly==5.20.0
+nbformat==5.10.4
+scikit-learn=1.4.2
 spotipy==2.23.0
 python-dotenv==1.0.1
+scikit-image==0.23.1
